@@ -1,3 +1,6 @@
 [submodule "learning-cxx"]
 	path = learning-cxx
 	url = https://github.com/wilson534/learning-cxx.git
+[submodule "learning-lm-rs"]
+	path = learning-lm-rs
+	url = https://github.com/wilson534/learning-lm-rs.git
